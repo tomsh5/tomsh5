@@ -6,8 +6,8 @@
 
 ### 👨  About Me
 
- - Writing Single Page Applications using Advanced Web Technologies
- -  I am a self-learner, passionate about coding and technology 
+ - I'm writing Single Page Applications using Advanced Web Technologies
+ - I am a self-learner, passionate about coding and technology 
  - I worked for 2 years on tech companies in various positions
 
 ### 🛠  Tech Stack
